@@ -1,4 +1,4 @@
-# Privacy Tools Repository
+# Privacy First Repository
 
 A curated collection of privacy-minded tools and extensions to enhance your online security and protect your personal data.
 
