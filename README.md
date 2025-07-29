@@ -4,34 +4,19 @@ A curated collection of privacy-minded tools and extensions to enhance your onli
 
 ## Table of Contents
 - [AI Assistants](#ai-assistants)
-  - [Duck.ai](#duckai)
 - [Browser Extensions](#browser-extensions)
-  - [uBlock Origin](#ublock-origin)
 - [File Sharing](#file-sharing)
-  - [qBittorrent](#qbittorrent)
 - [Open Front Ends](#open-front-ends)
-  - [Invidious](#invidious)
 - [VPN Services](#vpn-services)
-  - [Mullvad VPN](#mullvad-vpn)
 - [Password Managers](#password-managers)
-  - [Proton Pass](#proton-pass)
 - [Messaging Apps](#messaging-apps)
-  - [Signal Messenger](#signal-messenger)
 - [Media Players](#media-players)
-  - [VLC Media Player](#vlc-media-player)
 - [Search Engines](#search-engines)
-  - [DuckDuckGo](#duckduckgo)
-  - [Qwant](#qwant)
 - [Web Browsers](#web-browsers)
-  - [Firefox](#firefox)
-  - [Librewolf](#librewolf)
-  - [Tor](#tor)
-  - [Ungoogled Chromium](#ungoogled-chromium)
 
 - [Further Reading](#further-reading)
-  - [Online Spyware Watchdog](#online-spyware-watchdog)
-  - [PrivacyTests.org](#privacytestsorg)
 
+- [About This Repository](#about-this-repository)
 
 ***
 
@@ -43,7 +28,7 @@ A curated collection of privacy-minded tools and extensions to enhance your onli
 ## Browser Extensions
 
 ### uBlock Origin
-[**uBlock Origin**](https://github.com/gorhill/uBlock) is a powerful ad blocker that helps to block unwanted ads and trackers, improving your browsing experience and enhancing privacy.
+[**uBlock Origin**](https://github.com/gorhill/uBlock) is a powerful ad blocker that helps block unwanted ads and trackers, improving your browsing experience and enhancing privacy.
 
 ## File Sharing
 
@@ -58,7 +43,7 @@ A curated collection of privacy-minded tools and extensions to enhance your onli
 ## VPN Services
 
 ### Mullvad VPN
-[**Mullvad VPN**](https://mullvad.net/en/) is a privacy-centric VPN service that offers strong encryption and a no-logs policy, ensuring your online activities remain private. Mullvad additionally offers privacy-respecting payment options, such as Bitcoin, Monero, or even cash.
+[**Mullvad VPN**](https://mullvad.net/en/) is a privacy-centric VPN service that offers strong encryption and a no-logs policy, ensuring your online activities remain private. Mullvad also offers privacy-respecting payment options, such as Bitcoin, Monero, or even cash.
 
 ## Password Managers
 
@@ -68,7 +53,7 @@ A curated collection of privacy-minded tools and extensions to enhance your onli
 ## Messaging Apps
 
 ### Signal Messenger
-[**Signal Messenger**](https://signal.org/) is a secure messaging app that uses end-to-end encryption to protect your conversations, ensuring your messages remain private, even from Signal themselves. Signal does have any incentive to use your personal information, unlike alternatives such as Facebook Messenger, WhatsApp, and Telegram. Both WhatsApp and Telegram were implicated in the Snowden leaks.
+[**Signal Messenger**](https://signal.org/) is a secure messaging app that uses end-to-end encryption to protect your conversations, ensuring your messages remain private, even from Signal themselves. Signal has no incentive to use your personal information, unlike alternatives such as Facebook Messenger, WhatsApp, and Telegram. Both WhatsApp and Telegram were implicated in the Snowden leaks.
 
 ## Media Players
 
@@ -89,7 +74,7 @@ A curated collection of privacy-minded tools and extensions to enhance your onli
 [**Firefox**](https://www.mozilla.org/en-US/firefox/new/) is a privacy-focused web browser that offers robust security features and customizable privacy settings to protect your online activities.
 
 ### LibreWolf
-[**LibreWolf**](https://librewolf.net/) is a privacy-focused custom open sourced fork of Firefox that enhances user security and privacy by removing telemetry and implementing various privacy enhancements. It comes pre-configured with a range of privacy settings, including blocking trackers and ads, ensuring a safer browsing experience without compromising performance.
+[**LibreWolf**](https://librewolf.net/) is a privacy-focused open-sourced fork of Firefox that enhances user security and privacy by removing telemetry and implementing various privacy enhancements. It comes pre-configured with a range of privacy settings, including blocking trackers and ads, ensuring a safer browsing experience without compromising performance.
 
 ### Tor
 [**Tor**](https://www.torproject.org/) is a free and open-source software that enables anonymous communication over the internet. By routing your internet traffic through a global network of volunteer-operated servers, Tor helps to conceal your location and usage from surveillance and traffic analysis. It is particularly useful for users in regions with heavy internet censorship.
@@ -106,3 +91,10 @@ A curated collection of privacy-minded tools and extensions to enhance your onli
 
 ### PrivacyTests.org
 [**PrivacyTests.org**](https://privacytests.org/) is a comprehensive resource dedicated to evaluating and comparing the privacy features of various online browsers and applications.
+
+***
+
+## About This Repository
+This repository is dedicated to providing users with information and resources to discover privacy-focused alternatives to mainstream tools and applications that may compromise user privacy. It aims to empower individuals to take control of their digital privacy while highlighting and promoting tools, applications, and services that prioritize user respect and minimize data collection. By compiling these resources, this repository serves as a reference for anyone seeking to enhance their online privacy and security.
+
+If you would like to see an application, tool, or service included in this repository, please create an [issue](https://github.com/SeaPie/Privacy-First/issues/new), and I will look into it.
