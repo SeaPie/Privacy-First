@@ -70,14 +70,14 @@ A curated collection of privacy-minded tools and extensions to enhance your onli
 
 ## Web Browsers
 
-### Firefox
-[**Firefox**](https://www.mozilla.org/en-US/firefox/new/) is a privacy-focused web browser that offers robust security features and customizable privacy settings to protect your online activities.
+### Tor
+[**Tor**](https://www.torproject.org/) is a free and open-source software that enables anonymous communication over the internet. By routing your internet traffic through a global network of volunteer-operated servers, Tor helps to conceal your location and usage from surveillance and traffic analysis. It is particularly useful for users in regions with heavy internet censorship.
 
 ### LibreWolf
 [**LibreWolf**](https://librewolf.net/) is a privacy-focused open-sourced fork of Firefox that enhances user security and privacy by removing telemetry and implementing various privacy enhancements. It comes pre-configured with a range of privacy settings, including blocking trackers and ads, ensuring a safer browsing experience without compromising performance.
 
-### Tor
-[**Tor**](https://www.torproject.org/) is a free and open-source software that enables anonymous communication over the internet. By routing your internet traffic through a global network of volunteer-operated servers, Tor helps to conceal your location and usage from surveillance and traffic analysis. It is particularly useful for users in regions with heavy internet censorship.
+### Firefox
+[**Firefox**](https://www.mozilla.org/en-US/firefox/new/) is a privacy-focused web browser that offers robust security features and customizable privacy settings to protect your online activities.
 
 ### Ungoogled Chromium
 [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium) is a version of the Chromium web browser that aims to provide a more privacy-respecting experience by removing Google-specific features and services. While it offers a more stripped-down version of Chromium, allowing users to enjoy a familiar browsing experience without direct Google integration, it still inherits some of the limitations associated with being based on the Chromium engine.
